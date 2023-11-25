@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "partypack:papercrown"
+    },
+    "~": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "pattern": [
+    " #~"
+  ],
+  "result": {
+    "item": "partypack:redpapercrown"
+  },
+  "show_notification": true
+}
