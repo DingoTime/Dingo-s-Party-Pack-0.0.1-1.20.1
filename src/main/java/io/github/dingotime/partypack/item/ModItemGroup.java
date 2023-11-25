@@ -16,7 +16,7 @@ public class ModItemGroup {
 	public static final ItemGroup PARTY_GROUP = Registry.register(Registries.ITEM_GROUP,
 		new Identifier(PartyPack.MOD_ID, "party_group"),
 		FabricItemGroup.builder().name(Text.translatable("itemgroup.party_pack_item_group"))
-			.icon(() -> new ItemStack(ModItems.RED_PAPER_CROWN))
+			.icon(() -> new ItemStack(ModBlocks.CARDBOARD_BOX))
 			.entries((displayContext, entries) -> {
 
 				entries.addItem(ModItems.PAPER_CROWN);

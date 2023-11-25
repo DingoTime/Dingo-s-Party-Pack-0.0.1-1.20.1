@@ -19,7 +19,7 @@ public class PartyPack implements ModInitializer {
 
 		ModItemGroup.registerItemGroups();
 
-//		ModItems.registerModItems();
+		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 
 	}
