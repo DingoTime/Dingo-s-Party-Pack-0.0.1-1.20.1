@@ -1,0 +1,23 @@
+{
+
+//  PAPER CROWNS
+
+  "item.partypack.papercrown": "Paper Crown",
+  "item.partypack.redpapercrown": "Red Paper Crown",
+  "item.partypack.blackpapercrown": "Black Paper Crown",
+  "item.partypack.bluepapercrown": "Blue Paper Crown",
+  "item.partypack.brownpapercrown": "Brown Paper Crown",
+  "item.partypack.cyanpapercrown": "Cyan Paper Crown",
+  "item.partypack.greenpapercrown": "Green Paper Crown",
+  "item.partypack.greypapercrown": "Grey Paper Crown",
+  "item.partypack.lightbluepapercrown": "Light Blue Paper Crown",
+  "item.partypack.lightgreypapercrown": "Light Grey Paper Crown",
+  "item.partypack.limegreenpapercrown": "Lime Green Paper Crown",
+  "item.partypack.magentapapercrown": "Magenta Paper Crown",
+  "item.partypack.orangepapercrown": "Orange Paper Crown",
+  "item.partypack.purplepapercrown": "Purple Paper Crown",
+  "item.partypack.pinkpapercrown": "Pink Paper Crown",
+  "item.partypack.yellowpapercrown": "Yellow Paper Crown",
+
+  "block.partypack.cardboardbox": "Cardboard Box"
+}

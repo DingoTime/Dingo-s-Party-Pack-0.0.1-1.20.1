@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+    "1": "partypack:block/cardboard_box_bottom",
+    "2": "partypack:block/cardboard_box_frontback",
+    "3": "partypack:block/cardboard_box_side",
+    "4": "partypack:block/cardboard_box_top",
+		"particle": "partypack:block/cardboard_box_side"
+	},
+	"elements": [
+		{
+			"name": "cardboardbox",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {}
+}
